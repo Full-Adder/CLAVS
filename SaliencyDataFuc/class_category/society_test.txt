@@ -1,0 +1,4 @@
+SumMe/Air_Force_One 4493 24.999750
+SumMe/Car_railcrossing 5074 29.970030
+Coutrot_db1/clip18 297 24.999750
+Coutrot_db1/clip7 264 24.999750

@@ -1,0 +1,10 @@
+SumMe/Air_Force_One
+SumMe/Bike_Polo
+SumMe/Bus_in_Rock_Tunnel
+SumMe/car_over_camera
+SumMe/Car_railcrossing
+SumMe/Eiffel_Tower
+SumMe/Excavators_river_crossing
+SumMe/Notre_Dame
+SumMe/St_Maarten_Landing
+SumMe/Valparaiso_Downhill

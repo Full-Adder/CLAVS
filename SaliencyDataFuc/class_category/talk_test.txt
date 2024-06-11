@@ -1,0 +1,7 @@
+ETMD_av/CHI_1_color 5075 24.999750
+Coutrot_db2/clip10 621 24.999750
+Coutrot_db2/clip13 993 24.999750
+Coutrot_db2/clip2 1118 24.999750
+Coutrot_db2/clip5 869 24.999750
+AVAD/V11_News4 125 24.999750
+AVAD/V14_Conservation3 265 29.970030

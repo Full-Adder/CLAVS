@@ -1,0 +1,15 @@
+Coutrot_db2/clip1
+Coutrot_db2/clip2
+Coutrot_db2/clip3
+Coutrot_db2/clip4
+Coutrot_db2/clip5
+Coutrot_db2/clip6
+Coutrot_db2/clip7
+Coutrot_db2/clip8
+Coutrot_db2/clip9
+Coutrot_db2/clip10
+Coutrot_db2/clip11
+Coutrot_db2/clip12
+Coutrot_db2/clip13
+Coutrot_db2/clip14
+Coutrot_db2/clip15

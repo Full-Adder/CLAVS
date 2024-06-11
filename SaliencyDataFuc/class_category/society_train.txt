@@ -1,0 +1,16 @@
+SumMe/Bike_Polo 3063 29.999700
+SumMe/Eiffel_Tower 4970 24.999750
+SumMe/St_Maarten_Landing 1750 24.999750
+Coutrot_db1/clip10 597 24.999750
+Coutrot_db1/clip24 367 24.999750
+Coutrot_db1/clip29 236 24.999750
+Coutrot_db1/clip8 216 24.999750
+SumMe/Bus_in_Rock_Tunnel 5130 29.999700
+SumMe/Excavators_river_crossing 9720 24.999750
+SumMe/Valparaiso_Downhill 5177 29.970030
+Coutrot_db1/clip14 371 24.999750
+Coutrot_db1/clip26 258 24.999750
+Coutrot_db1/clip30 594 24.999750
+SumMe/Notre_Dame 4607 23.999760
+SumMe/car_over_camera 4381 29.970030
+Coutrot_db1/clip27 409 24.999750

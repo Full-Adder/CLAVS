@@ -1,0 +1,8 @@
+Coutrot_db1/clip3 366 24.999750
+Coutrot_db1/clip6 384 24.999750
+ETMD_av/FNE_2_color 5103 24.999750
+AVAD/V30_Dog3 210 29.999700
+Coutrot_db1/clip13 305 24.999750
+Coutrot_db1/clip17 381 24.999750
+Coutrot_db1/clip20 566 24.999750
+Coutrot_db1/clip23 535 24.999750

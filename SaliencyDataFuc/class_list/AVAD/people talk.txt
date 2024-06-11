@@ -1,0 +1,12 @@
+AVAD/V1_Speech1
+AVAD/V2_Speech2
+AVAD/V3_Speech3
+AVAD/V4_Interview1
+AVAD/V5_Interview2
+AVAD/V8_News1
+AVAD/V9_News2
+AVAD/V10_News3
+AVAD/V11_News4
+AVAD/V12_Conservation1
+AVAD/V13_Conservation2
+AVAD/V14_Conservation3

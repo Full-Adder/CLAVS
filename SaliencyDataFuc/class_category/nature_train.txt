@@ -1,0 +1,16 @@
+SumMe/Cockpit_Landing 9045 29.970030
+SumMe/Paintball 6095 23.976024
+SumMe/Scuba 2220 29.999700
+SumMe/Base_jumping 4728 29.970030
+Coutrot_db1/clip32 357 24.999750
+Coutrot_db1/clip33 345 24.999750
+Coutrot_db1/clip35 387 24.999750
+Coutrot_db1/clip36 476 24.999750
+Coutrot_db1/clip38 247 24.999750
+Coutrot_db1/clip39 495 24.999750
+Coutrot_db1/clip41 352 24.999750
+Coutrot_db1/clip42 484 24.999750
+Coutrot_db1/clip44 472 24.999750
+Coutrot_db1/clip45 371 24.999750
+Coutrot_db1/clip34 525 24.999750
+Coutrot_db1/clip40 371 24.999750
