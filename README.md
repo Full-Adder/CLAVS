@@ -1,7 +1,7 @@
 #  CLAVS
 Offical implemention of the paper CLAVS: A Novel Continual Learning Model and  Benchmarks for Audio-visual Saliency Prediction.
 
-## paper haves been accepted by International Conference on Control and Computer Vision (ICCCV) 2025! 
+## paper has been accepted by International Conference on Control and Computer Vision (ICCCV) 2025! 
 
 <br>
 <img width="800" src="CLAVS.jpg"/>
