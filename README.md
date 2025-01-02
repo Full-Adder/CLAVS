@@ -1,5 +1,7 @@
-#  CLAVS: A Novel Continual Learning Model and  Benchmarks for Audio-visual Saliency Prediction
+#  CLAVS
 Offical implemention of the paper CLAVS: A Novel Continual Learning Model and  Benchmarks for Audio-visual Saliency Prediction.
+
+## paper haves been accepted by International Conference on Control and Computer Vision (ICCCV) 2025! 
 
 <br>
 <img width="800" src="CLAVS.jpg"/>
@@ -16,4 +18,3 @@ pytorch==2.0.1
 - [x] release model files.
 - [ ] release train/test files.
 - [ ] release pretrained weights.
-
